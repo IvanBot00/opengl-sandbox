@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Build
+[Bb][Uu][Ii][Ll][Dd]
